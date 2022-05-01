@@ -63,7 +63,7 @@ endmodule
 ```
 
 ## Output:
-HALF SUBTRACTOR:
+## HALF SUBTRACTOR:
 
 ## Logical symbol
 
@@ -81,7 +81,7 @@ HALF SUBTRACTOR:
 
 ![pic](./hstimeline.png)
 
-FULL SUBTRACTOR:
+## FULL SUBTRACTOR:
 
 ## Logical symbol
 
